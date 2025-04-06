@@ -1,5 +1,3 @@
-USE mehtab;
-
 
 
 CREATE TABLE patients (
